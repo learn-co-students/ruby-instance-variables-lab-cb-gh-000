@@ -11,7 +11,7 @@ When we build objects through our own classes we know we can add behavior to the
 ## Instructions
 Run your tests with `learn` to get an overview of what we are trying to do. Then follow along below for how to get your tests to pass.
 
-## What is an instance variable?
+## What dis an instance variable?
 We've been working with variables for a while now. For example:
 
 ```ruby
